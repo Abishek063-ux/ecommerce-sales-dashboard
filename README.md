@@ -17,3 +17,6 @@ This project analyzes e-commerce sales performance using Python.
 ## How to Run
 
 streamlit run app.py
+## Dashboard Preview
+
+![Dashboard](Screenshot 2026-03-27 134919.png)
